@@ -1,0 +1,4 @@
+ea3d33c50cfd139282cbafd5a0fec779ddc8b79c73fe64887db1b9a1eb6f21ab  latest.json
+017a7418ea5ca3ce29feeb44c4e746ca0993b09e52c44e468f9701f23c175f02  My.MD.Viewer_0.1.4_x64-portable.exe
+774499af7a1d09d939e344addf7f0a1d9db34419ae3cae5ddd119b62b7699925  My.MD.Viewer_0.1.4_x64-setup.exe
+3e84b645c1ba80883e2f8e6443a633ee23a52184ce77080d20ac78fdbfea8214  My.MD.Viewer_0.1.4_x64-setup.exe.sig
