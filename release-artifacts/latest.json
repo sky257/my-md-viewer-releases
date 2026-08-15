@@ -1,0 +1,11 @@
+{
+  "version": "0.1.3",
+  "notes": "My MD Viewer 0.1.3",
+  "pub_date": "2026-08-15T10:46:53.803Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVST1o0N0plWDR5UVB0MjZQTDh3THJPQmN5eVVTcUplRDVwb2tsNUpSTW0xcEFkQm9TNVkxOGdEMFZnZFJaQXJmTVdlSlZVMUVJMk02QzBqcjhwS0VybnpOUHR4VkpmVHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzkwODEyCWZpbGU6TXkgTUQgVmlld2VyXzAuMS4zX3g2NC1zZXR1cC5leGUKZW1rUVRJRUdMTmg0WWJBaWpuOExVOEdiUk9tTUhPYlgrV1ZMcjBOV3lpZ29YbGxoV3lqcEVyT1FHQ0R3VWEzU1VJeTZDc2wyWUtwa1kyK0V0QUN2RGc9PQo=",
+      "url": "https://github.com/sky257/my-md-viewer-releases/releases/latest/download/My.MD.Viewer_0.1.3_x64-setup.exe"
+    }
+  }
+}
